@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Mental Load Meter">
+	<rect width="256" height="256" rx="56" fill="#FFFBF0"/>
+	<g transform="translate(35 42.5) scale(0.8455)">
+		<circle cx="40" cy="40" r="14" fill="#2BBF7A"/>
+		<circle cx="108" cy="22" r="16" fill="#FFC53D"/>
+		<circle cx="176" cy="40" r="14" fill="#F0544F"/>
+		<path d="M96 100 C 90 84, 138 74, 128 50" stroke="#2B2113" stroke-width="12" stroke-linecap="round" fill="none"/>
+		<path d="M46 104 h100 v46 a34 34 0 0 1 -34 34 h-32 a34 34 0 0 1 -34 -34 z" fill="#2B2113"/>
+		<path d="M148 113 h12 a27 27 0 0 1 0 54 h-12" stroke="#2B2113" stroke-width="11" stroke-linecap="round" fill="none"/>
+		<path d="M36 190 h128" stroke="#2B2113" stroke-width="12" stroke-linecap="round" fill="none"/>
+	</g>
+</svg>
