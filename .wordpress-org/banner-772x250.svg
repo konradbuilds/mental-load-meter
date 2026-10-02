@@ -4,10 +4,18 @@
 	<rect x="52" y="44" width="198" height="32" rx="16" fill="none" stroke="#D8BE88" stroke-width="1.5"/>
 	<text x="68" y="65" font-family="Figtree, system-ui, sans-serif" font-size="14" font-weight="600" fill="#7A6336">Depth, not word count</text>
 
-	<text x="52" y="130" font-family="Fraunces, Georgia, serif" font-size="42" font-weight="700" letter-spacing="-0.84" fill="#2B2113">Mental Load Meter</text>
+	<text x="52" y="130" font-family="Roboto Slab, Georgia, serif" font-size="42" font-weight="700" letter-spacing="-0.65" fill="#2B2113">Mental Load Meter</text>
 
-	<text x="52" y="164" font-family="Figtree, system-ui, sans-serif" font-size="17" fill="#6E5B3C">Tell readers how heavy the post is</text>
-	<text x="52" y="188" font-family="Figtree, system-ui, sans-serif" font-size="17" fill="#6E5B3C">before they start to read it.</text>
+	<g aria-hidden="true">
+		<circle cx="64" cy="177" r="6" fill="#2BBF7A"/>
+		<circle cx="84" cy="177" r="6" fill="#8FD44A"/>
+		<circle cx="104" cy="177" r="6" fill="#E8B500"/>
+		<circle cx="124" cy="177" r="6" fill="#D1D1D1"/>
+		<circle cx="144" cy="177" r="6" fill="#D1D1D1"/>
+	</g>
+	<text x="162" y="183" font-family="Figtree, system-ui, sans-serif" font-size="18" font-weight="700" fill="#2B2113">Needs focus</text>
+	<text x="269" y="183" font-family="Figtree, system-ui, sans-serif" font-size="18" fill="#6E5B3C">·</text>
+	<text x="287" y="183" font-family="Figtree, system-ui, sans-serif" font-size="18" fill="#6E5B3C">9 min read</text>
 
 	<g transform="translate(530 38) scale(0.8636)">
 		<circle cx="40" cy="40" r="13" fill="#2BBF7A"/>
