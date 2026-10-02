@@ -1,0 +1,62 @@
+/**
+ * Mental Load Meter — front end.
+ *
+ * @since 1.0.0
+ */
+
+.mlm-meter {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 0.875em;
+	gap: 0.5em;
+	line-height: 1.4;
+	margin-block-end: 1.5em;
+}
+
+.mlm-leds {
+	display: inline-flex;
+	gap: 0.3em;
+}
+
+.mlm-led {
+	background: currentColor;
+	block-size: 0.6em;
+	border-radius: 50%;
+	display: inline-block;
+	inline-size: 0.6em;
+	opacity: 0.2;
+}
+
+.mlm-led--on {
+	opacity: 1;
+}
+
+.mlm-led--1.mlm-led--on {
+	background: #2bbf7a;
+}
+
+.mlm-led--2.mlm-led--on {
+	background: #8fd44a;
+}
+
+.mlm-led--3.mlm-led--on {
+	background: #e8b500;
+}
+
+.mlm-led--4.mlm-led--on {
+	background: #e57200;
+}
+
+.mlm-led--5.mlm-led--on {
+	background: #f0544f;
+}
+
+.mlm-label {
+	font-weight: 600;
+}
+
+.mlm-sep,
+.mlm-time {
+	opacity: 0.7;
+}
