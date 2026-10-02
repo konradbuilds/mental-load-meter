@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:       Mental Load Meter
- * Plugin URI:        https://konrad.edgeone.dev/
+ * Plugin URI:        https://github.com/konradbuilds/mental-load-meter
  * Description:       Add reading time and a 1 to 5 mental load score to your posts, so readers know what they are walking into.
  * Version:           1.0.0
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            Konrad Sroka
- * Author URI:        https://konrad.edgeone.dev/
+ * Author URI:        https://konradbuilds.github.io/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       mental-load-meter

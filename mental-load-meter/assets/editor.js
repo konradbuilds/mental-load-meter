@@ -4,6 +4,11 @@
  * Plain JS through the wp.* globals. No JSX, no build step.
  *
  * @since 1.0.0
+ *
+ * @author  Konrad Sroka
+ * @link    https://github.com/konradbuilds/mental-load-meter
+ * @link    https://konradbuilds.github.io/
+ * @license GPL-2.0-or-later
  */
 ( function ( wp, mlmData ) {
 	'use strict';

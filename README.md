@@ -64,4 +64,5 @@ Both values are plain post meta (`_mlm_level`, `_mlm_minutes`). Deactivate the p
 
 ## Licence
 
-GPL-2.0-or-later. Konrad Sroka — [konrad.edgeone.dev](https://konrad.edgeone.dev/)
+GPL-2.0-or-later. Konrad Sroka — [konradbuilds.github.io](https://konradbuilds.github.io/)  
+Plugin: [github.com/konradbuilds/mental-load-meter](https://github.com/konradbuilds/mental-load-meter)
